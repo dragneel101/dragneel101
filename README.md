@@ -1,6 +1,6 @@
 # Hey, I'm Raish 👋
 
-> Full-Stack Developer · Brampton, Ontario 🇨🇦 · Building tools that actually get used
+> Full-Stack Developer · Ontario 🇨🇦 · Building tools that actually get used
 
 I build practical web applications with a focus on clean backends and usable UIs. Currently developing **SupportDesk** — a customer support ticketing platform — at [Nhuja IT Solutions](https://github.com/dragneel101).
 
@@ -65,7 +65,7 @@ A full-featured internal ticketing system built for real support teams.
 ## 📫 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-dragneel101-181717?style=flat-square&logo=github)](https://github.com/dragneel101)
-[![Location](https://img.shields.io/badge/📍-Brampton%2C%20Ontario-lightgrey?style=flat-square)](https://maps.google.com/?q=Brampton,Ontario)
+[![Location](https://img.shields.io/badge/📍-Brampton%2C%20Ontario-lightgrey?style=flat-square)](https://maps.google.com/?q=Ontario)
 
 ---
 
